@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.wpb_t_pricing_table .wpb_t_plan .wpb_element_wrapper {
+ background: #FFFFFF !important;
+ padding:15px;
+}
+.wpb_bootstrap_modals li i.icon-pricing-table{background-image:url(../img/pricing-table.png);}
+
+.wpb_t_plan .vc_controls { 
+ text-align: center;
+ width: 100%;
+ background-color:#fff;
+ line-height: 1px;
+ padding:10px 0 0 0;
+ height: 30px;
+ position:relative;
+ right:0;
+ top:0;
+}
+
+.wpb_t_plan {background-color:#F5F5F5;margin-bottom:15px;} 

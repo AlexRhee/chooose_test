@@ -1,0 +1,42 @@
+.acoda-gigatools-wrap {
+ position:relative;
+ text-align:center;	 
+}
+
+.acoda-gigatools-wrap .acoda-gigatools-item {
+ margin-bottom:1.875rem;
+}
+
+.acoda-gigatools-wrap.left {
+ text-align:left;
+}
+
+.acoda-gigatools-wrap.right {
+ text-align:right;
+}
+
+.acoda-gigatools-wrap .date,
+.acoda-gigatools-wrap .format {
+ margin-bottom:0.9375rem;
+ word-wrap:break-word;
+}
+
+.acoda-gigatools-wrap .date {
+  display:inline-block;
+}
+
+.acoda-gigatools-inner {
+ display:inline-block;
+ text-align:left;
+}
+
+.acoda-gigatools-wrap.center .acoda-gigatools-inner {text-align:center;}
+
+.acoda-gigatools-wrap .highlight {
+ display: inline;
+ padding: .15em;
+ padding-left: 0;
+ padding-right: 0;
+ margin:0;
+ line-height:1.6;
+}

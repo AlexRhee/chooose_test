@@ -1,0 +1,271 @@
+<!doctype html>
+<html>
+<head>
+<title>Ultimate Pricing Table - Visual Composer Add-on</title>
+<link href='http://fonts.googleapis.com/css?family=Raleway:300' rel='stylesheet' type='text/css'>
+
+	<style>
+        section, header, footer {display: block;}
+        body {
+            font-family: sans-serif;
+            color: #444;
+            line-height: 1.5;
+            font-size: 1em;
+        }
+        * {
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+		h1, h2, h3, h4, h5, h6 {
+			font-family: 'Raleway', sans-serif;
+			font-weight:400;
+			margin-bottom:20px;
+		}
+		h1 {
+			margin-bottom:0;
+		}
+		h2.icon-heading {
+			font-size:3em;
+		}
+		
+		.examples h2,
+		h1 {font-size:2.5em;}
+		
+		a {
+			color:#73BDF8;	   
+			text-decoration: none;
+			outline: none;
+		}
+		
+		a:hover {color:#5AB1F6;}
+		
+		a,
+		span.unicode,
+       span.icon-large {
+			transition-property: all;
+			-webkit-transition-duration: 600ms;
+			-webkit-transition-timing-function: ease-in-out;	
+			-moz-transition-duration: 600ms;
+			-moz-transition-timing-function: ease-in-out;	
+			-o-transition-duration: 600ms;
+			-o-transition-timing-function: ease-in-out;				
+		}
+		
+		a.button {
+			background-color:#73BDF8;
+			color:#fff;
+			padding:10px 15px;
+			text-align:center;
+			position:relative;
+			margin-top:25px;
+            -moz-border-radius: 5px; 
+            -webkit-border-radius: 5px;
+             border-radius: 5px;			
+		}
+		a.button:hover {background-color:#5AB1F6;color:#fff;}
+		
+		span.unicode,
+       span.icon-large {
+			transition-property: opacity;	
+		}
+		  
+        span.icon-wrap {float:left;width:24.5%;padding:15px;text-align:left;position:relative;cursor:pointer;}
+        span.icon-name {margin-left:15px;}
+        
+        span.unicode,
+        span.icon-large {visibility:hidden;position:absolute;display:block;opacity:0;}
+        
+        span.details {position:relative;}
+        span.unicode {color:#ccc;cursor:default;}
+        
+        span.icon-large {
+            background-color:#ccc;
+            top:50%;
+            margin-top:-40px;
+            left:-80px;
+            width:80px;
+            z-index:1;
+            text-align:center;
+            -moz-border-radius: 100%; 
+            -webkit-border-radius: 100%;
+             border-radius: 100%;		
+        }
+        span.icon-large i {font-size:50px;line-height:80px;}
+       
+	   	span.icon-wrap:hover span.unicode {margin-left:31px;} 
+        span.icon-wrap:hover span.unicode,
+        span.icon-wrap:hover span.icon-large {visibility:visible;opacity:1;}
+        
+        .icons-wrapper {margin:0 -15px;}
+        section.section,
+		header.header-wrap,
+		footer.footer-wrap {width:100%;max-width:980px;margin:0 auto;}
+		
+		div.examples,
+		footer.footer-wrap,
+		section#examples {margin-bottom:70px;}
+		
+		p,
+		pre,
+		.main-nav,
+		section#description {margin-bottom:25px;}
+		header.header-wrap {text-align:center;}
+        
+		ul li,
+		ol li,
+		ul ul,
+		ol ol {margin-left:25px;}
+		
+
+		.icons-ul li {
+		list-style:none;
+		}
+		
+       nav.main-nav li {display:inline;margin:0 0 0 14px;font-size:1em;}
+		nav.main-nav li:first-child {margin-left:0;}
+       nav.main-nav li a span {margin-left:3px;}
+		
+		pre,
+		code {
+		display: inline;
+		padding:5px 10px;
+		line-height: 20px;
+		word-break: break-all;
+		word-wrap: break-word;
+		white-space: pre;
+		white-space: pre-wrap;
+		background-color: #f5f5f5;
+		border: 1px solid #ccc;
+		-webkit-border-radius: 4px;
+		-moz-border-radius: 4px;
+		border-radius: 4px;
+		}
+		
+		pre {display:block;}
+		
+		.hightlight-red {color:#E40003;font-weight:bold;font-size:20px;line-height:20px;margin-left:25px;}
+
+		
+		.clearfix { *zoom: 1; }
+		.clearfix:after { content: " "; display: table; }
+		.clearfix:after { clear: both; }		
+        
+    </style>
+</head>
+<body>
+	
+<header class="header-wrap">
+	<p><h1><img src="img/documentation/pricing-table.png" width="200" height="200" alt=""/><br>
+	  Ultimate Pricing Tables</h1>
+    <p> Add-on for <em>Visual Composer</em> by <a href="http://themeforest.net/user/themeva?ref=themeva">themeva</a>
+    </p>
+    </p>
+    <p>&nbsp; </p>
+</header>
+
+<section id="documentation" class="section clearfix">
+	<h2 class="icon-heading">Table of Contents</h2>
+	<ol>
+	  <li><a href="#wp-insall">WordPress Installation</a></li>
+	  <li><a href="#add-plan">Add a Pricing Table to a Page / Post</a></li>
+	  <li><a href="#add-custom-plan">Create a Custom  Plan</a></li>
+	  <li><a href="#democontent">Import Demo Content</a></li>
+	  <li><a href="#screencast">Screencast</a></li>
+  </ol>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p> 
+  <div class="examples" id="wp-insall">
+	<h2>WordPress Installation</h2>
+	<p><ol>
+	  <li>Log-in to your WordPress site</li>
+	  <li>Ensure the Visual Composer plugin is activated. </li>
+	  <li>Navigate to the Plugins Menu > Click<strong> Add New</strong> > Click the <strong>Upload</strong> link</li>
+	  <li>Click <strong>Choose File</strong> &gt; Locate the &quot;ultimate-pricing-tables&quot; <strong>.zip</strong> file > Click <strong>Install Now</strong></li>
+	  <li>Click <strong>Activate Plugin</strong></li>
+	  </ol></p>
+  </div>
+
+	<div class="examples" id="add-plan">
+		<h2>Add a Pricing Table to a Page / Post</h2>
+		<p>1. Create / Edit a Page or Post &gt; Click <strong>Add Element </strong>and search for &quot;Pricing Table&quot;.	  </p>
+		<p><img src="img/documentation/screenshot-1.png" width="184" height="79" alt=""/></p>
+		<p>&nbsp;</p>
+	  <p>2. Edit the <strong>Layout</strong> of your Pricing Table.</p>
+	  <p><img src="img/documentation/screenshot-2.png" alt=""/></p>
+      <p><span class="hightlight-red">1.</span> Select a <strong>Column Layout </strong>( Recommend to do this first before editing each of the Plans ). <br>
+        <span class="hightlight-red">2.</span> Edit each Pricing Plan ( <strong>Color</strong>, <strong>Icons</strong>, <strong>Font Colors</strong> etc ) by clicking the Edit icon. <br>
+        <span class="hightlight-red">3.</span> <strong>Drag &amp; Drop</strong> the individual Pricing Plans by dragging the title.<br>
+      <span class="hightlight-red">4.</span> <strong>Edit</strong> the Pricing Table options ( <strong>Animation</strong>, <strong>Padding</strong> etc ).</p>
+      <p>&nbsp;</p>
+	  <p>3. <strong>Edit</strong> individual <strong>Pricing Plans </strong>( General Tab ). </p>
+      <p><img src="img/documentation/screenshot-3.png" alt=""/></p>
+      <p><span class="hightlight-red">1.</span> <strong>Title : </strong>This is the title of the Pricing Plan.<br>
+        <span class="hightlight-red">2.</span> <strong>Featured Plan : </strong>Check this option to set this Plan as the Featured Plan, it will offset the Plan from the rest of them.<br>
+        <span class="hightlight-red">3.</span> <strong>Price : </strong>If your Plan requires a price, set it here.<br>
+      <span class="hightlight-red">4.</span> <strong>Currency : </strong>If you wish to add a currency to your &quot;Price&quot;, add one here .e.g $.<br>
+      <span class="hightlight-red">5.</span> <strong>Per : </strong>If you require a Per value, enter it here e.g. / mo , / day, / yr etc.<br>
+      <span class="hightlight-red">6.</span> <strong>Content : </strong>Enter the content of your Plan into this section, it's recommended to use Lists.<br>
+      <span class="hightlight-red">7.</span> <strong>Button Text : </strong>If you wish to add a Button, enter text here for the it.<br>
+      <span class="hightlight-red">8.</span> <strong>Button Link : </strong>Add a URL to link the Button to. <br>
+      <span class="hightlight-red">9.</span> <strong>Button Target : </strong>Set the target of the Button link.<br>
+      <span class="hightlight-red">10.</span> <strong>Icon : </strong>If you wish to add an Icon to the Plan, add a Font Awesome Icon class to this field e.g.<em> fa-compass</em>.</p>
+      <p>&nbsp;</p>
+<p>4. <strong>Edit</strong> individual <strong>Pricing Plans </strong>( Design Tab ). </p>
+<p><img src="img/documentation/screenshot-4.png" width="770" height="471" alt=""/></p>
+<p><span class="hightlight-red">1.</span> <strong>Plan Color : </strong>Select a Plan Color, choose from default options or create a <strong>Custom Color</strong> ( See Creating a Custom Plan ).<br>
+  <span class="hightlight-red">2.</span> <strong>Border Style : </strong>Select a Plan border style, or set to None to disable the border completely.<br>
+  <span class="hightlight-red">3.</span> <strong>Shadow Effect : </strong>Add a Shadow Effect to your  Plan.<br>
+  <span class="hightlight-red">4.</span> <strong>Icon Color : </strong>If you have set an Icon ( General tab ), you can choose the <strong>Color</strong> with this option.<br>
+  <span class="hightlight-red">5.</span> <strong>Icon Background Color : </strong>If you have set an Icon ( General tab ), you can choose the <strong>Background Color</strong> with this option.<br>
+</p>
+	</div>
+
+	<div class="examples" id="add-custom-plan">
+		<h2>Create a Custom Plan</h2>
+		<ol>
+            <li>Edit a <strong>Pricing Plan</strong></li>
+            <p><br>
+          <img src="img/documentation/screenshot-5.png" width="185" height="81" alt=""/><br>
+          <br>
+          </p>
+            <li>Select the <strong>Design</strong> <strong>Options </strong>and select <strong>Custom Color</strong> from the <strong>Plan Color</strong> select menu.</li>
+        </ol>
+		<p><br>
+	    <img src="img/documentation/screenshot-6.png" width="770" height="873" alt=""/></p>
+		<p><span class="hightlight-red">1.</span> <strong>Plan Color  : </strong>To create a Custom Plan, select <strong>Custom Color</strong> from the <strong>Plan Color</strong> select menu.<br>
+          <span class="hightlight-red">2.</span><strong> Custom Title Background Color : </strong>Set the title Background Color.<br>
+          <span class="hightlight-red">3.</span><strong> Custom Title  Color : </strong>Set the title text Color.<br>
+          <span class="hightlight-red">4.</span> <strong>Custom Background Color : </strong>Set the <strong>Background Color</strong> of the entire Plan.<br>
+          <span class="hightlight-red">5.</span> <strong>Custom Text Color : </strong>Set the main <strong>Text Color</strong> of the Plan.<br>
+          <span class="hightlight-red">6.</span> <strong>Custom Border Color : </strong>If you have a Border Style set, you can set a <strong>Border Color</strong> with this option.<br>
+          <span class="hightlight-red">7.</span> <strong>Custom Button Color  : </strong>If you have a Button enabled, you can set the <strong>Color</strong> of the Button with this option.<br>
+        <span class="hightlight-red">8.</span><strong> Custom Button Text Color  : </strong>If you have a Button enabled, you can set the Color of the <strong>Button Text</strong> with this option.	</p>
+	</div>
+
+	<div class="examples" id="democontent">
+	<h2> Import Demo Content</h2>
+	  <p>
+		  <section id="examples" class="section clearfix">
+		    <p>To import the demo content as seen on the <a href="http://themeva.com/ultimate-pricing-tables/" target="_blank">demo site </a>, please see the following instructions. </p>
+		    <ol>
+		      <li>Log-in to your WordPress admin - Goto Tools → Import → Select WordPress.</li>
+		      <li>If required, download and active the WordPresss Importer plugin. Once activated you may need to repeat steps above.</li>
+		      <li>Locate and select the <em><strong>ultimate-pricing-tables/xml/demo.xml</strong></em> → click the Upload File and Import button.</li>
+		      <li>Assign admin user to an existing user. e.g. admin → select Download and Import file attachments.</li>
+	        </ol>
+		  </section> 
+        </p>
+  </div>
+
+	<div class="examples" id="screencast">
+	<h2> Screencast</h2>
+		<p>
+		  <section id="examples" class="section clearfix">You can view the Ultimate Pricing Tables <a href="https://www.youtube.com/watch?v=H9nMygLAtG0" target="_blank">Screencast</a> on YouTube <a href="https://www.youtube.com/watch?v=H9nMygLAtG0" target="_blank">here</a>. </section> 
+        </p>
+  </div>
+</section>
+</body>
+</html>
