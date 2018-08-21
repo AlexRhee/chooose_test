@@ -1,0 +1,4079 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: You Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-10 16:38+0100\n"
+"PO-Revision-Date: 2016-05-10 16:39+0100\n"
+"Last-Translator: acoda LTD <info@acoda.com>\n"
+"Language-Team: acoda <info@acoda.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:28
+msgid "We're sorry but that page could not be found."
+msgstr ""
+
+#: ../archive-portfolio.php:92
+#: ../archive.php:91
+#: ../blog.php:157
+msgid "Search Filter"
+msgstr ""
+
+#: ../archive-portfolio.php:96
+#: ../archive.php:95
+#: ../blog.php:161
+#: ../dock.config.php:286
+msgid "Search"
+msgstr ""
+
+#: ../archive-portfolio.php:141
+#: ../archive.php:140
+#: ../blog.php:207
+#, php-format
+msgid "Sorry, but there aren't any posts in the %s category yet."
+msgstr ""
+
+#: ../archive-portfolio.php:144
+#: ../archive.php:143
+#: ../blog.php:209
+msgid "Sorry, but there aren't any posts with this date."
+msgstr ""
+
+#: ../archive-portfolio.php:148
+#: ../archive.php:147
+#: ../blog.php:212
+#, php-format
+msgid "Sorry, but there aren't any posts by %s yet."
+msgstr ""
+
+#: ../archive-portfolio.php:151
+#: ../archive.php:150
+#: ../blog.php:214
+msgid "No posts found."
+msgstr ""
+
+#: ../archive-portfolio.php:177
+#: ../archive.php:176
+#: ../blog.php:242
+msgid "Load More"
+msgstr ""
+
+#: ../comments.php:21
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:35
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:39
+#: ../comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:40
+#: ../comments.php:54
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:41
+#: ../comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:72
+msgid "Post Comment"
+msgstr ""
+
+#: ../content-page.php:12
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr ""
+
+#: ../functions-core.php:1067
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions-core.php:1354
+#, php-format
+msgid "Search results for &#39; %s &#39;"
+msgstr ""
+
+#: ../functions-core.php:1362
+msgid "Oops!"
+msgstr ""
+
+#: ../functions-core.php:1861
+#: ../functions-core.php:1878
+msgid "Permanent Link to"
+msgstr ""
+
+#: ../functions-core.php:2437
+msgid "Share This Post"
+msgstr ""
+
+#: ../functions-core.php:2476
+#: ../options.php:939
+msgid "Related Posts"
+msgstr ""
+
+#: ../functions-core.php:2533
+msgid "About the Author"
+msgstr ""
+
+#: ../functions-core.php:2540
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../functions-core.php:2549
+#, php-format
+msgid "View all posts by %s "
+msgstr ""
+
+#: ../functions-core.php:2626
+msgid "Tags"
+msgstr ""
+
+#: ../functions-core.php:2628
+msgid "Comma Separated Tags."
+msgstr ""
+
+#: ../functions-core.php:2633
+msgid "Link URL"
+msgstr ""
+
+#: ../functions-core.php:2639
+msgid "Media URL"
+msgstr ""
+
+#: ../functions-core.php:2670
+msgid "Media Embed"
+msgstr ""
+
+#: ../functions-core.php:2700
+msgid "Media Ratio"
+msgstr ""
+
+#: ../functions-core.php:2706
+msgid "Timeout ( s )"
+msgstr ""
+
+#: ../functions-core.php:2712
+msgid "CSS Classes"
+msgstr ""
+
+#: ../functions-core.php:3085
+#: ../options.php:1489
+msgid "Social Icons"
+msgstr ""
+
+#: ../functions-core.php:3086
+msgid "Add social icons to your page or post."
+msgstr ""
+
+#: ../functions-core.php:3097
+#: ../functions-core.php:3109
+#: ../functions-core.php:3121
+msgid "Default"
+msgstr ""
+
+#: ../functions-core.php:3098
+#: ../options.php:1529
+msgid "Color on Hover"
+msgstr ""
+
+#: ../functions-core.php:3099
+#: ../options.php:1528
+msgid "Color"
+msgstr ""
+
+#: ../functions-core.php:3110
+#: ../functions-core.php:3122
+#: ../options.php:476
+#: ../options.php:895
+#: ../options.php:933
+#: ../options.php:945
+#: ../options.php:1260
+msgid "Enable"
+msgstr ""
+
+#: ../functions-core.php:3111
+#: ../functions-core.php:3123
+#: ../options.php:163
+#: ../options.php:477
+#: ../options.php:896
+#: ../options.php:915
+#: ../options.php:934
+#: ../options.php:946
+#: ../options.php:995
+#: ../options.php:1009
+#: ../options.php:1023
+#: ../options.php:1037
+#: ../options.php:1051
+#: ../options.php:1065
+#: ../options.php:1261
+#: ../options.php:1309
+msgid "Disable"
+msgstr ""
+
+#: ../functions-core.php:3227
+#: ../functions-core.php:3273
+msgid "No Image"
+msgstr ""
+
+#: ../functions-core.php:3874
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions-core.php:4013
+msgid "Theme Options"
+msgstr ""
+
+#: ../options.php:55
+msgid "WARNING:||Importing Demo Content will import sliders, pages, posts, theme options, widgets, sidebars and other settings. This will replace all current Theme Options. It can also take sometime to complete.||DO NOT REFRESH the page, unless it has been over 5 minutes.||ACTIVATE PLUGINS:||Please ensure the following plugins are active before installing the demo.||To install plugins, goto Appearance > Install Plugins.||"
+msgstr ""
+
+#: ../options.php:56
+msgid "<span class=\"dashicons dashicons-info\"></span> <strong>Please wait</strong>, this may take a few minutes. Depending on your server, If this is not complete after 5 minutes, you may need to click re-click the \"Install\" button once more."
+msgstr ""
+
+#: ../options.php:120
+msgid "Install"
+msgstr ""
+
+#: ../options.php:120
+msgid "Preview"
+msgstr ""
+
+#: ../options.php:128
+#: ../options.php:785
+msgid "No Sidebar"
+msgstr ""
+
+#: ../options.php:129
+#: ../options.php:787
+msgid "1x Left Sidebar"
+msgstr ""
+
+#: ../options.php:130
+#: ../options.php:788
+msgid "2x Left Sidebar"
+msgstr ""
+
+#: ../options.php:131
+#: ../options.php:789
+msgid "1x Right Sidebar"
+msgstr ""
+
+#: ../options.php:132
+#: ../options.php:790
+msgid "2x Right Sidebar"
+msgstr ""
+
+#: ../options.php:133
+#: ../options.php:791
+msgid "Left + Right Sidebar"
+msgstr ""
+
+#: ../options.php:138
+msgid "One"
+msgstr ""
+
+#: ../options.php:139
+#: ../options.php:849
+#: ../options.php:1235
+msgid "Two"
+msgstr ""
+
+#: ../options.php:140
+#: ../options.php:848
+#: ../options.php:1236
+msgid "Three"
+msgstr ""
+
+#: ../options.php:141
+#: ../options.php:850
+#: ../options.php:1237
+msgid "Four"
+msgstr ""
+
+#: ../options.php:149
+#, php-format
+msgid "Sidebar %d"
+msgstr ""
+
+#: ../options.php:161
+msgid "Posts"
+msgstr ""
+
+#: ../options.php:162
+msgid "Posts &amp; Pages"
+msgstr ""
+
+#: ../options.php:168
+#: ../options.php:533
+#: ../options.php:836
+#: ../options.php:865
+#: ../options.php:1220
+#: ../options.php:1274
+msgid "Disabled"
+msgstr ""
+
+#: ../options.php:169
+msgid "Top"
+msgstr ""
+
+#: ../options.php:170
+msgid "Bottom"
+msgstr ""
+
+#: ../options.php:216
+msgid "Help & Demo Import"
+msgstr ""
+
+#: ../options.php:221
+msgid "Documentation"
+msgstr ""
+
+#: ../options.php:223
+#, php-format
+msgid ""
+"<p>View the interactive online Documentation below. Alternatively, if you can not find what you are looking for, visit the Help Center.</p>\n"
+"\t\t<a target=\"_blank\" href=\"http://docs.acoda.com/%s/\" class=\"documentation_link button button-primary\">Interactive Documentation</a> <a target=\"_blank\" href=\"http://acoda.com/forums/\" class=\"documentation_link button button-primary\">Help Center</a>\n"
+"\t\t"
+msgstr ""
+
+#: ../options.php:229
+msgid "Install Demo Content"
+msgstr ""
+
+#: ../options.php:235
+msgid "General"
+msgstr ""
+
+#: ../options.php:240
+msgid "Site Layout"
+msgstr ""
+
+#: ../options.php:247
+msgid "Wide"
+msgstr ""
+
+#: ../options.php:248
+msgid "Boxed"
+msgstr ""
+
+#: ../options.php:253
+msgid "Maximum Site Width"
+msgstr ""
+
+#: ../options.php:254
+msgid "Default is 1440"
+msgstr ""
+
+#: ../options.php:271
+msgid "Number of Sidebars"
+msgstr ""
+
+#: ../options.php:272
+msgid "Default is 2"
+msgstr ""
+
+#: ../options.php:280
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../options.php:287
+#: ../options.php:338
+#: ../options.php:365
+#: ../options.php:414
+#: ../options.php:565
+#: ../options.php:596
+#: ../options.php:628
+#: ../options.php:639
+#: ../options.php:711
+#: ../options.php:736
+#: ../options.php:1094
+#: ../options.php:1135
+#: ../options.php:1339
+#: ../options.php:1366
+#: ../options.php:1463
+#: ../options.php:1476
+#: ../options.php:1504
+#: ../options.php:1517
+msgid "On"
+msgstr ""
+
+#: ../options.php:288
+#: ../options.php:339
+#: ../options.php:366
+#: ../options.php:415
+#: ../options.php:566
+#: ../options.php:595
+#: ../options.php:627
+#: ../options.php:640
+#: ../options.php:712
+#: ../options.php:737
+#: ../options.php:1095
+#: ../options.php:1134
+#: ../options.php:1338
+#: ../options.php:1365
+#: ../options.php:1464
+#: ../options.php:1477
+#: ../options.php:1503
+#: ../options.php:1516
+msgid "Off"
+msgstr ""
+
+#: ../options.php:293
+msgid "Show Author Bio"
+msgstr ""
+
+#: ../options.php:294
+msgid "Enable this option to display author bio information."
+msgstr ""
+
+#: ../options.php:303
+msgid "Element Animation"
+msgstr ""
+
+#: ../options.php:307
+msgid "Set the animation type for the Menu, Dock Panels and Grid Loading."
+msgstr ""
+
+#: ../options.php:310
+msgid "3d"
+msgstr ""
+
+#: ../options.php:311
+msgid "Slide"
+msgstr ""
+
+#: ../options.php:312
+msgid "Fade"
+msgstr ""
+
+#: ../options.php:317
+msgid "Element Border Radius"
+msgstr ""
+
+#: ../options.php:318
+msgid "Set rounded edges for elements across the site - 0 is square."
+msgstr ""
+
+#: ../options.php:326
+msgid "Lightbox"
+msgstr ""
+
+#: ../options.php:331
+msgid "FancyBox Lightbox"
+msgstr ""
+
+#: ../options.php:344
+msgid "Lightbox Classes"
+msgstr ""
+
+#: ../options.php:346
+msgid "Add custom link classes to activate Lightbox. e.g. <strong>.gallery-item a</strong> - Comma separate for multiple classes."
+msgstr ""
+
+#: ../options.php:352
+msgid "First Image Detection"
+msgstr ""
+
+#: ../options.php:357
+msgid "Use First Image of Posts"
+msgstr ""
+
+#: ../options.php:361
+msgid "Allows the detection of the first image within the post to be used as a Featured Image."
+msgstr ""
+
+#: ../options.php:371
+msgid "Dock Bar"
+msgstr ""
+
+#: ../options.php:376
+msgid "Dock Bar Position"
+msgstr ""
+
+#: ../options.php:381
+msgid "Choose the position of the Header Dock Icons ( Search, Social Icons etc )."
+msgstr ""
+
+#: ../options.php:383
+#: ../options.php:460
+msgid "Header"
+msgstr ""
+
+#: ../options.php:384
+msgid "Dock Bar Top"
+msgstr ""
+
+#: ../options.php:385
+msgid "Dock Bar Top Float"
+msgstr ""
+
+#: ../options.php:386
+msgid "Dock Bar Left"
+msgstr ""
+
+#: ../options.php:387
+msgid "Dock Bar Left Float"
+msgstr ""
+
+#: ../options.php:388
+msgid "Dock Bar Right"
+msgstr ""
+
+#: ../options.php:389
+msgid "Dock Bar Right Float"
+msgstr ""
+
+#: ../options.php:394
+msgid "Dock Panel Style"
+msgstr ""
+
+#: ../options.php:399
+msgid "Choose how to display the Dock Panels when a Dock Icon is selected."
+msgstr ""
+
+#: ../options.php:401
+msgid "Pointer"
+msgstr ""
+
+#: ../options.php:402
+msgid "Flat"
+msgstr ""
+
+#: ../options.php:403
+msgid "Fullscreen"
+msgstr ""
+
+#: ../options.php:408
+msgid "Display Search"
+msgstr ""
+
+#: ../options.php:420
+msgid "Info Dock Panel"
+msgstr ""
+
+#: ../options.php:425
+msgid "For Desktop only - add Widgets via Appearance > Widgets > Information Panel."
+msgstr ""
+
+#: ../options.php:427
+msgid "Static"
+msgstr ""
+
+#: ../options.php:428
+msgid "Dock Icon"
+msgstr ""
+
+#: ../options.php:433
+msgid "Info Dock Icon"
+msgstr ""
+
+#: ../options.php:434
+msgid "Set a <a href=\"http://fortawesome.github.io/Font-Awesome/icons/\" target=\\\"_blank\\\">Font Awesome</a> Icon for the Information Dock Icon. Default is <strong>fa-info</strong>"
+msgstr ""
+
+#: ../options.php:442
+msgid "Menu Dock Icon"
+msgstr ""
+
+#: ../options.php:443
+msgid "Set a <a href=\"http://fortawesome.github.io/Font-Awesome/icons/\" target=\\\"_blank\\\">Font Awesome</a> Icon for the Menu Dock Icon. Default is <strong>fa-bars</strong>"
+msgstr ""
+
+#: ../options.php:451
+msgid "Menu Dock Icon Text"
+msgstr ""
+
+#: ../options.php:452
+msgid "Add description text below icon e.g. MENU"
+msgstr ""
+
+#: ../options.php:465
+msgid "Display"
+msgstr ""
+
+#: ../options.php:470
+msgid "Header Display"
+msgstr ""
+
+#: ../options.php:482
+#: ../options.php:773
+#: ../options.php:1168
+#: ../options.php:1387
+#: ../options.php:1426
+msgid "Layout"
+msgstr ""
+
+#: ../options.php:487
+#: ../options.php:668
+msgid "Width"
+msgstr ""
+
+#: ../options.php:493
+msgid "Site Width"
+msgstr ""
+
+#: ../options.php:494
+msgid "Full Width"
+msgstr ""
+
+#: ../options.php:499
+msgid "Horizontal Layout"
+msgstr ""
+
+#: ../options.php:505
+msgid "Logo Left | Menu Right"
+msgstr ""
+
+#: ../options.php:506
+msgid "Menu Left | Logo Right"
+msgstr ""
+
+#: ../options.php:507
+msgid "Menu Center | Logo Center"
+msgstr ""
+
+#: ../options.php:512
+msgid "Vertical Layout"
+msgstr ""
+
+#: ../options.php:518
+msgid "Top + Auto Height"
+msgstr ""
+
+#: ../options.php:519
+msgid "Top + 50% Height"
+msgstr ""
+
+#: ../options.php:520
+msgid "Top + 100% Height"
+msgstr ""
+
+#: ../options.php:521
+msgid "Middle + 50% Height"
+msgstr ""
+
+#: ../options.php:522
+msgid "Middle + 100% Height"
+msgstr ""
+
+#: ../options.php:527
+msgid "Floating Header"
+msgstr ""
+
+#: ../options.php:534
+msgid "Float"
+msgstr ""
+
+#: ../options.php:535
+msgid "Float + Transparent"
+msgstr ""
+
+#: ../options.php:541
+msgid "Title Layout"
+msgstr ""
+
+#: ../options.php:547
+msgid "Title ( Left ) / Breadcrumbs ( Right )"
+msgstr ""
+
+#: ../options.php:548
+msgid "Breadcrumbs ( Left ) / Title ( Right )"
+msgstr ""
+
+#: ../options.php:549
+msgid "Title ( Center ) / Breadcrumbs ( Center )"
+msgstr ""
+
+#: ../options.php:554
+msgid "Branding / Logo"
+msgstr ""
+
+#: ../options.php:559
+msgid "Display Logo"
+msgstr ""
+
+#: ../options.php:571
+msgid "Logo Top Margin"
+msgstr ""
+
+#: ../options.php:580
+msgid "Logo Bottom Margin"
+msgstr ""
+
+#: ../options.php:589
+msgid "Display Tagline"
+msgstr ""
+
+#: ../options.php:601
+msgid "Logo"
+msgstr ""
+
+#: ../options.php:609
+msgid "Retina Logo"
+msgstr ""
+
+#: ../options.php:616
+msgid "Main Menu"
+msgstr ""
+
+#: ../options.php:621
+msgid "Move to Dock Bar"
+msgstr ""
+
+#: ../options.php:633
+msgid "Sticky Menu"
+msgstr ""
+
+#: ../options.php:645
+msgid "Menu Top Margin"
+msgstr ""
+
+#: ../options.php:654
+msgid "Menu Bottom Margin"
+msgstr ""
+
+#: ../options.php:663
+msgid "Header Widget"
+msgstr ""
+
+#: ../options.php:682
+msgid "Text Align"
+msgstr ""
+
+#: ../options.php:689
+#: ../options.php:1082
+#: ../options.php:1326
+msgid "Center"
+msgstr ""
+
+#: ../options.php:690
+#: ../options.php:1081
+#: ../options.php:1325
+msgid "Left"
+msgstr ""
+
+#: ../options.php:691
+#: ../options.php:1083
+#: ../options.php:1327
+msgid "Right"
+msgstr ""
+
+#: ../options.php:696
+msgid "Footer"
+msgstr ""
+
+#: ../options.php:701
+msgid "Main Footer"
+msgstr ""
+
+#: ../options.php:706
+msgid "Display Footer"
+msgstr ""
+
+#: ../options.php:717
+msgid "Footer Columns"
+msgstr ""
+
+#: ../options.php:726
+msgid "Lower Footer"
+msgstr ""
+
+#: ../options.php:731
+msgid "Display Lower Footer"
+msgstr ""
+
+#: ../options.php:742
+msgid "Left Column"
+msgstr ""
+
+#: ../options.php:749
+msgid "Right Column"
+msgstr ""
+
+#: ../options.php:757
+msgid "Blog"
+msgstr ""
+
+#: ../options.php:762
+msgid "Post Content"
+msgstr ""
+
+#: ../options.php:767
+msgid "Excerpt"
+msgstr ""
+
+#: ../options.php:768
+msgid "Full Post"
+msgstr ""
+
+#: ../options.php:778
+msgid "Default Post Layout"
+msgstr ""
+
+#: ../options.php:786
+msgid "No Sidebar + Fullwidth"
+msgstr ""
+
+#: ../options.php:796
+#: ../options.php:1183
+#: ../options.php:1402
+#: ../options.php:1441
+msgid "Column 1 Sidebar"
+msgstr ""
+
+#: ../options.php:804
+#: ../options.php:1191
+#: ../options.php:1410
+#: ../options.php:1449
+msgid "Column 2 Sidebar"
+msgstr ""
+
+#: ../options.php:812
+msgid "Layout Format"
+msgstr ""
+
+#: ../options.php:819
+#: ../options.php:1207
+msgid "Normal"
+msgstr ""
+
+#: ../options.php:820
+#: ../options.php:1208
+msgid "Grid"
+msgstr ""
+
+#: ../options.php:821
+#: ../options.php:1206
+msgid "Masonry Grid"
+msgstr ""
+
+#: ../options.php:826
+#: ../options.php:1213
+msgid "Boxed Post Style"
+msgstr ""
+
+#: ../options.php:833
+#: ../options.php:912
+#: ../options.php:992
+#: ../options.php:1006
+#: ../options.php:1020
+#: ../options.php:1034
+#: ../options.php:1048
+#: ../options.php:1062
+#: ../options.php:1221
+#: ../options.php:1306
+msgid "Single & Archive"
+msgstr ""
+
+#: ../options.php:834
+#: ../options.php:914
+#: ../options.php:993
+#: ../options.php:1007
+#: ../options.php:1021
+#: ../options.php:1035
+#: ../options.php:1049
+#: ../options.php:1063
+#: ../options.php:1222
+#: ../options.php:1308
+msgid "Single"
+msgstr ""
+
+#: ../options.php:835
+#: ../options.php:913
+#: ../options.php:994
+#: ../options.php:1008
+#: ../options.php:1022
+#: ../options.php:1036
+#: ../options.php:1050
+#: ../options.php:1064
+#: ../options.php:1223
+#: ../options.php:1307
+msgid "Archive"
+msgstr ""
+
+#: ../options.php:841
+#: ../options.php:1228
+msgid "Grid Columns"
+msgstr ""
+
+#: ../options.php:851
+#: ../options.php:1238
+msgid "Five"
+msgstr ""
+
+#: ../options.php:852
+#: ../options.php:1239
+msgid "Six"
+msgstr ""
+
+#: ../options.php:863
+#: ../options.php:1272
+msgid "Add a normal Search Bar or a Search Filter option. Search Filter will filter the posts on screen as you type."
+msgstr ""
+
+#: ../options.php:866
+#: ../options.php:1275
+msgid "Search Bar"
+msgstr ""
+
+#: ../options.php:868
+#: ../options.php:1277
+msgid "Search Filter + Highlight"
+msgstr ""
+
+#: ../options.php:873
+#: ../options.php:1282
+msgid "Pagination"
+msgstr ""
+
+#: ../options.php:880
+#: ../options.php:1289
+msgid "Ajax Click Load"
+msgstr ""
+
+#: ../options.php:881
+#: ../options.php:1290
+msgid "Ajax Scroll Load"
+msgstr ""
+
+#: ../options.php:882
+#: ../options.php:1291
+msgid "Page Numbers"
+msgstr ""
+
+#: ../options.php:887
+msgid "Blog Index Title"
+msgstr ""
+
+#: ../options.php:893
+msgid "If \"Your latest posts\" are set to the home page ( Settings > Reading ), you can choose whether to display the Site title or not."
+msgstr ""
+
+#: ../options.php:902
+#: ../options.php:907
+#: ../options.php:1296
+#: ../options.php:1301
+msgid "Featured Image"
+msgstr ""
+
+#: ../options.php:920
+msgid "Share + Related Posts"
+msgstr ""
+
+#: ../options.php:925
+msgid "Share Post"
+msgstr ""
+
+#: ../options.php:929
+msgid "Add Social Icons to the bottom of Posts - Uses selected Social Icons from the <strong>Social Media</strong> admin section."
+msgstr ""
+
+#: ../options.php:951
+msgid "Metadata"
+msgstr ""
+
+#: ../options.php:956
+msgid "Archive Date Format"
+msgstr ""
+
+#: ../options.php:959
+#: ../options.php:968
+msgid "See WordPress <a href=\"http://codex.wordpress.org/Formatting_Date_and_Time\">Date Formats</a> for reference."
+msgstr ""
+
+#: ../options.php:965
+msgid "Single Date Format"
+msgstr ""
+
+#: ../options.php:974
+msgid "Date Position"
+msgstr ""
+
+#: ../options.php:980
+msgid "Title"
+msgstr ""
+
+#: ../options.php:981
+msgid "Metadata Area"
+msgstr ""
+
+#: ../options.php:986
+msgid "Display Date"
+msgstr ""
+
+#: ../options.php:1000
+msgid "Display Author"
+msgstr ""
+
+#: ../options.php:1014
+msgid "Display Categories"
+msgstr ""
+
+#: ../options.php:1028
+msgid "Display Tags"
+msgstr ""
+
+#: ../options.php:1042
+msgid "Display Like"
+msgstr ""
+
+#: ../options.php:1056
+msgid "Display Comments"
+msgstr ""
+
+#: ../options.php:1070
+msgid "Blog Page Images"
+msgstr ""
+
+#: ../options.php:1075
+#: ../options.php:1319
+msgid "Image Alignment"
+msgstr ""
+
+#: ../options.php:1088
+#: ../options.php:1128
+#: ../options.php:1332
+#: ../options.php:1359
+msgid "Image Lightbox"
+msgstr ""
+
+#: ../options.php:1100
+#: ../options.php:1140
+msgid "Image Effect"
+msgstr ""
+
+#: ../options.php:1105
+#: ../options.php:1145
+msgid "None"
+msgstr ""
+
+#: ../options.php:1106
+#: ../options.php:1146
+msgid "Frame"
+msgstr ""
+
+#: ../options.php:1107
+#: ../options.php:1147
+msgid "Black & White"
+msgstr ""
+
+#: ../options.php:1108
+#: ../options.php:1148
+msgid "Frame + Black & White"
+msgstr ""
+
+#: ../options.php:1113
+#: ../options.php:1153
+#: ../options.php:1344
+#: ../options.php:1371
+msgid "Image Size"
+msgstr ""
+
+#: ../options.php:1118
+#: ../options.php:1158
+#: ../options.php:1349
+#: ../options.php:1376
+msgid "Enter image size. e.g. 'thumbnail', 'medium', 'large', 'full'. Alternatively enter image size in pixels: 200x100 (Width x Height)."
+msgstr ""
+
+#: ../options.php:1123
+msgid "Single Post Images"
+msgstr ""
+
+#: ../options.php:1163
+msgid "Portfolio"
+msgstr ""
+
+#: ../options.php:1199
+msgid "Archive Layout Format"
+msgstr ""
+
+#: ../options.php:1244
+msgid "Parent Portfolio Page"
+msgstr ""
+
+#: ../options.php:1254
+msgid "Portfolio Page Link"
+msgstr ""
+
+#: ../options.php:1314
+msgid "Portfolio Archive Images"
+msgstr ""
+
+#: ../options.php:1354
+msgid "Single Portfolio Images"
+msgstr ""
+
+#: ../options.php:1382
+msgid "BBPress"
+msgstr ""
+
+#: ../options.php:1421
+msgid "WooCommerce"
+msgstr ""
+
+#: ../options.php:1473
+msgid "Change the Header Search Bar to search for Products only."
+msgstr ""
+
+#: ../options.php:1484
+msgid "Social Media"
+msgstr ""
+
+#: ../options.php:1495
+msgid "Dock Social Icons"
+msgstr ""
+
+#: ../options.php:1499
+msgid "Add selected social icons to the Header area."
+msgstr ""
+
+#: ../options.php:1509
+msgid "Share Icon"
+msgstr ""
+
+#: ../options.php:1522
+msgid "Social Icons Color"
+msgstr ""
+
+#: ../options.php:1539
+msgid "Enable Social Icons"
+msgstr ""
+
+#: ../options.php:1548
+msgid "Social Icon URL's"
+msgstr ""
+
+#: ../options.php:1567
+#: ../options.php:1572
+msgid "Custom CSS"
+msgstr ""
+
+#: ../options.php:1581
+msgid "Mobile CSS"
+msgstr ""
+
+#: ../options.php:1583
+msgid "CSS for Devices with a maximum width of 1024px.</strong>"
+msgstr ""
+
+#: ../search.php:86
+msgid "Sorry, no posts found. Try a different search? "
+msgstr ""
+
+#: ../sitemap.php:28
+msgid "Pages"
+msgstr ""
+
+#: ../sitemap.php:31
+msgid "Feeds"
+msgstr ""
+
+#: ../sitemap.php:33
+msgid "Main RSS"
+msgstr ""
+
+#: ../sitemap.php:34
+msgid "Comment Feed"
+msgstr ""
+
+#: ../sitemap.php:37
+msgid "Categories"
+msgstr ""
+
+#: ../sitemap.php:40
+msgid "Blog Posts"
+msgstr ""
+
+#: ../sitemap.php:50
+msgid "Archives"
+msgstr ""
+
+#: ../theme-setup.php:10
+msgid "Main Navigation"
+msgstr ""
+
+#: ../theme-setup.php:11
+msgid "Mobile Navigation"
+msgstr ""
+
+#: ../theme-setup.php:56
+msgid "Add widgets to appear below the Menu within the Dock Bar."
+msgstr ""
+
+#: ../theme-setup.php:66
+msgid "Add widgets to appear within the header."
+msgstr ""
+
+#: ../theme-setup.php:238
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../theme-setup.php:239
+msgid "Install Plugins"
+msgstr ""
+
+#: ../theme-setup.php:240
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../theme-setup.php:241
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../theme-setup.php:252
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../theme-setup.php:253
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../theme-setup.php:254
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../theme-setup.php:443
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../theme-setup.php:558
+msgid "Select Style"
+msgstr ""
+
+#: ../theme-setup.php:559
+msgid "Ultra Light"
+msgstr ""
+
+#: ../theme-setup.php:560
+msgid "Ultra Light Italic"
+msgstr ""
+
+#: ../theme-setup.php:561
+msgid "Light"
+msgstr ""
+
+#: ../theme-setup.php:562
+msgid "Light Italic"
+msgstr ""
+
+#: ../theme-setup.php:563
+msgid "Book"
+msgstr ""
+
+#: ../theme-setup.php:564
+msgid "Book Italic"
+msgstr ""
+
+#: ../theme-setup.php:565
+#: ../theme-setup.php:566
+msgid "Regular"
+msgstr ""
+
+#: ../theme-setup.php:567
+msgid "Regular Italic"
+msgstr ""
+
+#: ../theme-setup.php:568
+msgid "Medium"
+msgstr ""
+
+#: ../theme-setup.php:569
+msgid "Medium Italic"
+msgstr ""
+
+#: ../theme-setup.php:570
+msgid "Semi-Bold"
+msgstr ""
+
+#: ../theme-setup.php:571
+msgid "Semi-Bold Italic"
+msgstr ""
+
+#: ../theme-setup.php:572
+msgid "Bold"
+msgstr ""
+
+#: ../theme-setup.php:573
+msgid "Bold Italic"
+msgstr ""
+
+#: ../theme-setup.php:574
+msgid "Extra Bold"
+msgstr ""
+
+#: ../theme-setup.php:575
+msgid "Extra Bold Italic"
+msgstr ""
+
+#: ../theme-setup.php:576
+msgid "Ultra Bold"
+msgstr ""
+
+#: ../theme-setup.php:577
+msgid "Ultra Bold Italic"
+msgstr ""
+
+#: ../theme-setup.php:621
+msgid "Continue reading"
+msgstr ""
+
+#: ../theme-setup.php:2817
+msgid "Name"
+msgstr ""
+
+#: ../theme-setup.php:2819
+msgid "Email"
+msgstr ""
+
+#: ../theme-setup.php:2821
+msgid "Website"
+msgstr ""
+
+#: ../theme-setup.php:2843
+#, php-format
+msgid "%1$s %2$s "
+msgstr ""
+
+#: ../theme-setup.php:2849
+#: ../theme-setup.php:2889
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../theme-setup.php:2853
+msgid "- Edit"
+msgstr ""
+
+#: ../theme-setup.php:2857
+#: ../theme-setup.php:2886
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../theme-setup.php:2867
+msgid "Reply"
+msgstr ""
+
+#: ../theme-setup.php:2883
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../theme-setup.php:2889
+msgid "(Edit)"
+msgstr ""
+
+#: ../bbpress/form-search.php:14
+msgid "Search for:"
+msgstr ""
+
+#: ../bbpress/loop-search-forum.php:18
+#, php-format
+msgid "Last updated %s"
+msgstr ""
+
+#: ../bbpress/loop-search-forum.php:28
+msgid "Forum: "
+msgstr ""
+
+#: ../bbpress/loop-search-reply.php:46
+msgid "In reply to: "
+msgstr ""
+
+#: ../bbpress/loop-search-topic.php:48
+msgid "Topic: "
+msgstr ""
+
+#: ../bbpress/loop-search-topic.php:55
+msgid "in group forum "
+msgstr ""
+
+#: ../bbpress/loop-search-topic.php:59
+msgid "in forum "
+msgstr ""
+
+#: ../bbpress/loop-single-reply.php:43
+msgid "in reply to: "
+msgstr ""
+
+#: ../bbpress/loop-single-topic.php:66
+#, php-format
+msgid "Started by: %1$s"
+msgstr ""
+
+#: ../bbpress/loop-single-topic.php:74
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:389
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:391
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2817
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:393
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:396
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:515
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:516
+msgid "Update Required"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:629
+msgid "The tgmpa_admin_menu_use_add_theme_page filter is deprecated."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:818
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:3423
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:925
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:925
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:928
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:928
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:1866
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2152
+msgid "Required"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2155
+msgid "Recommended"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2171
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2174
+msgid "External Source"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2177
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2194
+msgid "Not Installed"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2198
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2200
+msgid "Active"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2206
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2209
+msgid "Requires Update"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2212
+msgid "Update recommended"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2220
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2268
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2271
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2274
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2356
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2364
+msgid "Installed version:"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2372
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2384
+msgid "Available version:"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2407
+#, php-format
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2421
+msgid "Plugin"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2422
+msgid "Source"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2423
+msgid "Type"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2427
+msgid "Version"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2428
+msgid "Status"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2476
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2480
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2485
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2555
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2594
+msgid "Update"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2597
+msgid "Activate"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2628
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2630
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2666
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2668
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2773
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:2799
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:3013
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:3347
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:3349
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:3350
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:3354
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:3355
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:3355
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:3361
+msgid "Show Details"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:3355
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:3361
+msgid "Hide Details"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:3356
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:3357
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:3360
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:3361
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:3362
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../lib/adm/inc/class-tgm-plugin-activation.php:3363
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/adm/inc/custom-widgets.php:19
+msgid "Arbitrary text, HTML or rich text through the standard WordPress visual editor."
+msgstr ""
+
+#: ../lib/adm/inc/custom-widgets.php:25
+msgid "Rich Text Editor"
+msgstr ""
+
+#: ../lib/adm/inc/custom-widgets.php:72
+msgid "New title"
+msgstr ""
+
+#: ../lib/adm/inc/custom-widgets.php:90
+msgid "Edit content"
+msgstr ""
+
+#: ../lib/adm/inc/custom-widgets.php:94
+msgid "Output title"
+msgstr ""
+
+#: ../lib/adm/inc/custom-widgets.php:183
+msgid "Save and close"
+msgstr ""
+
+#: ../lib/adm/inc/options-backup.php:25
+msgid "Backup Manager"
+msgstr ""
+
+#: ../lib/adm/inc/options-backup.php:26
+msgid "<strong>Note!</strong> This is only to backup the settings within <strong>Appearance &rarr; Theme Options</strong>, for all other Theme settings, use Tools &rarr; Export."
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:63
+msgid "Max Site Width"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:104
+msgid "Default Page Layout"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:124
+msgid "Author Bio"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:206
+msgid "Dock Bar Search"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:246
+msgid "Menu Dock Text"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:275
+msgid "Header Width"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:286
+msgid "Header Layout"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:336
+msgid "Logo / Branding"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:391
+msgid "Site Tagline"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:402
+#: ../lib/adm/inc/theme-customizer.php:1321
+msgid "Logo URL"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:411
+msgid "Retina Logo URL"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:464
+msgid "Menu in Dock Bar"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:496
+msgid "Widget Width"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:507
+msgid "Widget Text Align"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:607
+#: ../lib/adm/inc/theme-customizer.php:974
+msgid "Featured Images"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:863
+msgid "Portfolio Page Layout"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1131
+#, php-format
+msgid "To set what icons are visible, please visit the <a href=\"%s\">Social Media</a> Options Page."
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1171
+msgid "RSS"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1207
+#: ../lib/adm/inc/theme-customizer.php:1247
+#: ../lib/adm/metabox-options/options-meta.php:327
+msgid "Page Layout"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1277
+msgid "Cart Dock Icon"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1287
+msgid "Search Products Only"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1310
+msgid "Alternative Logo"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1312
+msgid "Set an alternative logo for this Skin, overiding the default logo."
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1331
+msgid "Logo URL Retina"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1342
+#: ../lib/adm/inc/theme-customizer.php:1462
+#: ../lib/adm/inc/theme-customizer.php:2205
+#: ../lib/adm/inc/theme-customizer.php:2417
+#: ../lib/adm/inc/theme-customizer.php:3980
+msgid "Background"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1352
+#: ../lib/adm/inc/theme-customizer.php:1472
+#: ../lib/adm/inc/theme-customizer.php:1691
+#: ../lib/adm/inc/theme-customizer.php:1728
+#: ../lib/adm/inc/theme-customizer.php:1820
+#: ../lib/adm/inc/theme-customizer.php:1971
+#: ../lib/adm/inc/theme-customizer.php:2216
+#: ../lib/adm/inc/theme-customizer.php:2427
+#: ../lib/adm/inc/theme-customizer.php:2570
+#: ../lib/adm/inc/theme-customizer.php:2803
+#: ../lib/adm/inc/theme-customizer.php:2925
+#: ../lib/adm/inc/theme-customizer.php:3479
+msgid "Background Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1366
+#: ../lib/adm/inc/theme-customizer.php:1486
+#: ../lib/adm/inc/theme-customizer.php:1742
+#: ../lib/adm/inc/theme-customizer.php:1985
+msgid "Background Opacity"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1383
+#: ../lib/adm/inc/theme-customizer.php:1503
+#: ../lib/adm/inc/theme-customizer.php:2247
+#: ../lib/adm/inc/theme-customizer.php:2458
+#: ../lib/adm/inc/theme-customizer.php:2834
+msgid "Background Image"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1394
+#: ../lib/adm/inc/theme-customizer.php:1514
+#: ../lib/adm/inc/theme-customizer.php:2258
+#: ../lib/adm/inc/theme-customizer.php:2469
+#: ../lib/adm/inc/theme-customizer.php:2845
+#: ../lib/adm/inc/theme-customizer.php:3509
+msgid "Image Position"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1416
+#: ../lib/adm/inc/theme-customizer.php:1536
+#: ../lib/adm/inc/theme-customizer.php:2280
+#: ../lib/adm/inc/theme-customizer.php:2491
+#: ../lib/adm/inc/theme-customizer.php:2867
+#: ../lib/adm/inc/theme-customizer.php:3532
+msgid "Image Repeat"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1450
+#: ../lib/adm/inc/theme-customizer.php:1580
+#: ../lib/adm/inc/theme-customizer.php:1704
+#: ../lib/adm/inc/theme-customizer.php:1833
+#: ../lib/adm/inc/theme-customizer.php:2324
+msgid "Border Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1570
+#: ../lib/adm/inc/theme-customizer.php:2314
+msgid "Border"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1594
+#: ../lib/adm/inc/theme-customizer.php:1851
+#: ../lib/adm/inc/theme-customizer.php:2337
+#: ../lib/adm/inc/theme-customizer.php:2682
+msgid "Font Colors"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1604
+#: ../lib/adm/inc/theme-customizer.php:1759
+#: ../lib/adm/inc/theme-customizer.php:1861
+#: ../lib/adm/inc/theme-customizer.php:2100
+#: ../lib/adm/inc/theme-customizer.php:2347
+#: ../lib/adm/inc/theme-customizer.php:2692
+#: ../lib/adm/inc/theme-customizer.php:2967
+msgid "Font Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1617
+#: ../lib/adm/inc/theme-customizer.php:1772
+#: ../lib/adm/inc/theme-customizer.php:1874
+#: ../lib/adm/inc/theme-customizer.php:1910
+#: ../lib/adm/inc/theme-customizer.php:2015
+#: ../lib/adm/inc/theme-customizer.php:2113
+#: ../lib/adm/inc/theme-customizer.php:2360
+#: ../lib/adm/inc/theme-customizer.php:2705
+#: ../lib/adm/inc/theme-customizer.php:2980
+msgid "Link Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1630
+#: ../lib/adm/inc/theme-customizer.php:1785
+#: ../lib/adm/inc/theme-customizer.php:1887
+#: ../lib/adm/inc/theme-customizer.php:1923
+#: ../lib/adm/inc/theme-customizer.php:2028
+#: ../lib/adm/inc/theme-customizer.php:2126
+#: ../lib/adm/inc/theme-customizer.php:2373
+#: ../lib/adm/inc/theme-customizer.php:2718
+#: ../lib/adm/inc/theme-customizer.php:2993
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1641
+msgid "Dock Icons"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1642
+msgid "Search, Social, Cart Icon Colors"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1652
+msgid "Icon Size"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1681
+msgid "Hover Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1717
+msgid "Dock Dropdown Panels"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1718
+msgid "Search bar, Shopping Cart and Language Flags."
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1796
+msgid "Dock Dropdown Shaded Areas"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1797
+msgid "Search, Dividers, Form Fields."
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1935
+#: ../lib/adm/inc/theme-customizer.php:1945
+#: ../lib/adm/inc/theme-customizer.php:2039
+msgid "Link Hover Background"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:1961
+msgid "Submenu"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2090
+msgid "Transparent Floating Header"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2230
+#: ../lib/adm/inc/theme-customizer.php:2441
+#: ../lib/adm/inc/theme-customizer.php:2817
+msgid "Opacity"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2387
+msgid "Title Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2400
+msgid "Subtitle Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2546
+#: ../lib/adm/inc/theme-customizer.php:2901
+msgid "Shaded Areas"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2547
+msgid "Accordion, Tabs, Search, Dividers, Form Fields, Boxed Posts, Back to Top Button."
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2583
+#: ../lib/adm/inc/theme-customizer.php:2938
+msgid "Border / Divider Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2597
+msgid "Buttons"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2598
+msgid "Uses \"Link Color\" if left blank."
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2608
+msgid "Button Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2620
+msgid "Button Hover Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2631
+msgid "Text Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2643
+msgid "Text Hover Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2654
+msgid "Hover Overlay"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2655
+msgid "Overlay Color for elements with Hover Effect enabled. Uses \"Link Color\" if left blank."
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2665
+msgid "Hover Overlay Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2731
+msgid "Metadata Font Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2744
+msgid "H1 Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2757
+msgid "H2 Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2770
+#: ../lib/adm/inc/theme-customizer.php:3032
+msgid "h3 Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2783
+#: ../lib/adm/inc/theme-customizer.php:3045
+msgid "h4, h5, h6 Color"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:2957
+msgid "Footer Font Colors"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3073
+#: ../lib/adm/inc/theme-customizer.php:3138
+#: ../lib/adm/inc/theme-customizer.php:3231
+#: ../lib/adm/inc/theme-customizer.php:3296
+msgid "Font Family"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3084
+#: ../lib/adm/inc/theme-customizer.php:3149
+#: ../lib/adm/inc/theme-customizer.php:3242
+#: ../lib/adm/inc/theme-customizer.php:3307
+msgid "Font Style"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3095
+#: ../lib/adm/inc/theme-customizer.php:3160
+#: ../lib/adm/inc/theme-customizer.php:3253
+#: ../lib/adm/inc/theme-customizer.php:3318
+msgid "Text Transform"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3106
+#: ../lib/adm/inc/theme-customizer.php:3181
+#: ../lib/adm/inc/theme-customizer.php:3210
+#: ../lib/adm/inc/theme-customizer.php:3275
+#: ../lib/adm/inc/theme-customizer.php:3329
+msgid "Letter Spacing ( px, rem, em, % )"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3117
+#: ../lib/adm/inc/theme-customizer.php:3265
+msgid "Font Size ( px, rem, em, %  )"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3171
+msgid "Logo Font Size ( px, rem, em, % )"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3191
+msgid "Logo Tagline"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3200
+msgid "Font Size ( px, rem, em, % )"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3221
+#: ../lib/adm/metabox-options/options-meta.php:499
+msgid "Menu"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3286
+msgid "Headings"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3340
+msgid "Page Title Font Size ( px, rem, em, % )"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3350
+msgid "Page Subtitle Font Size ( px, rem, em, % )"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3361
+msgid "H1 Font Size ( px, rem, em, % )"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3371
+msgid "H2 Font Size ( px, rem, em, %  )"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3381
+msgid "H3 Font Size ( px, rem, em, %  )"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3391
+msgid "H4 Font Size ( px, rem, em, %  )"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3401
+msgid "H5 Font Size ( px, rem, em, %  )"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3411
+msgid "H6 Font Size ( px, rem, em, %  )"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3440
+msgid "Select Background Type"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3457
+msgid "Image"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3616
+msgid "Select"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3739
+msgid "Customize Skins"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3745
+msgid "Select Skin"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3765
+msgid "Select Skin to Edit:"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3772
+msgid "Apply Skin to Site:"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3784
+#, php-format
+msgid "Select Skin | %s"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3785
+#, php-format
+msgid "Currently editing %s"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3924
+msgid "Custom Scripts"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3939
+msgid "bbPress"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3956
+msgid "Subheader"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3962
+msgid "Body"
+msgstr ""
+
+#: ../lib/adm/inc/theme-customizer.php:3974
+msgid "Font Settings"
+msgstr ""
+
+#: ../lib/adm/metabox-options/init.php:260
+msgid "Clear"
+msgstr ""
+
+#: ../lib/adm/metabox-options/init.php:262
+msgid "Select Color"
+msgstr ""
+
+#: ../lib/adm/metabox-options/init.php:263
+msgid "Current Color"
+msgstr ""
+
+#: ../lib/adm/metabox-options/init.php:339
+msgid "Select / Deselect All"
+msgstr ""
+
+#: ../lib/adm/metabox-options/init.php:1233
+msgid "Save"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:66
+#: ../lib/adm/metabox-options/options-meta.php:264
+msgid "Display Title"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:77
+#: ../lib/adm/metabox-options/options-meta.php:275
+msgid "Alternative Page Title"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:83
+#: ../lib/adm/metabox-options/options-meta.php:280
+msgid "Sub Title"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:131
+msgid "Featured Image Display"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:145
+#: ../lib/adm/metabox-options/options-meta.php:175
+#: ../lib/adm/metabox-options/options-meta.php:189
+#: ../lib/adm/metabox-options/options-meta.php:203
+#: ../lib/adm/metabox-options/options-meta.php:217
+#: ../lib/adm/metabox-options/options-meta.php:231
+#: ../lib/adm/metabox-options/options-meta.php:245
+msgid "Single + Archive"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:154
+msgid "Post Metadata"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:161
+msgid "Display Post Metadata"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:166
+msgid "Date"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:180
+msgid "Author"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:222
+msgid "Like"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:384
+msgid "Header / Menu"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:385
+msgid "These options relate to the Header & Menu areas."
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:411
+msgid "Sticky Header"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:475
+msgid "Enable the header to float over page content, including the option to set to transparent."
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:486
+#: ../lib/adm/metabox-options/options-meta.php:492
+msgid "Title / Breadcrumbs Layout"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:507
+msgid "These options relate to the Main & Footer areas."
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:526
+msgid "Single Page"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:533
+msgid "Animate Type"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:535
+msgid "Note: Footer Widgets will be Disabled."
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:539
+msgid "3d Vertical"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:540
+msgid "3d Horizontal"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:541
+msgid "Snap Scroll Vertical"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:542
+msgid "Snap Scroll Horizontal"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:546
+msgid "Bullet Navigation"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:549
+msgid "Enable bullet navigation to each Single page slide."
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:557
+msgid "Directional Navigation"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:560
+msgid "Enable Directional Navigation Icons."
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:563
+msgid "Icon"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:564
+msgid "Icon + Background"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:569
+msgid "Static Header"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:572
+msgid "Enable Static Header to show the header at all times. This overrides the Sticky Header option."
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:584
+msgid "Social"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:594
+#: ../lib/adm/metabox-options/options-meta.php:601
+msgid "Skin"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:629
+msgid "Set a Page to link this Portfolio to. Default is set in Appearance > Theme Options > Portfolio > Portfolio Page Link."
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:638
+#: ../lib/adm/metabox-options/options-meta.php:645
+msgid "Blog Template"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:647
+msgid "Select \"Blog Template\" from the Template drop down menu under Page Attributes."
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:714
+msgid "Ajax Load Number of Posts"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:720
+msgid "Image Settings"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:721
+msgid "These settings do not affect Single Post images."
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:726
+msgid "Image Align"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:768
+msgid "Select Categories"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:775
+msgid "Disable Post Format(s)"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:787
+msgid "Media"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:797
+msgid "Uses oEmbed to display the Media - you'll need to the Post Format to Video."
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:800
+msgid "Media Embed Type"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:806
+msgid "oEmbed"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:815
+msgid "Additional"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:822
+msgid "Alternative Link"
+msgstr ""
+
+#: ../lib/adm/metabox-options/options-meta.php:827
+msgid "Disable Link"
+msgstr ""
+
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_field.php:474
+msgid "Add Group"
+msgstr ""
+
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_field.php:475
+msgid "Remove Group"
+msgstr ""
+
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_types.php:280
+msgid "Add Row"
+msgstr ""
+
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_types.php:336
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_types.php:736
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_types.php:798
+#: ../lib/adm/options-framework/inc/includes/class-options-media-uploader.php:68
+#: ../lib/adm/options-framework/inc/includes/class-options-media-uploader.php:120
+msgid "Remove"
+msgstr ""
+
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_types.php:631
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_types.php:665
+msgid "No terms"
+msgstr ""
+
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_types.php:704
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_types.php:758
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_types.php:725
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_types.php:790
+msgid "Remove Image"
+msgstr ""
+
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_types.php:736
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_types.php:798
+msgid "File:"
+msgstr ""
+
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_types.php:736
+#: ../lib/adm/metabox-options/helpers/cmb_Meta_Box_types.php:798
+msgid "Download"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-framework-admin.php:203
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-framework-admin.php:235
+msgid "Default options restored."
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-framework-admin.php:289
+msgid "Options saved."
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-media-uploader.php:66
+#: ../lib/adm/options-framework/inc/includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-sanitization.php:241
+msgid "No Repeat"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-sanitization.php:242
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-sanitization.php:243
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-sanitization.php:244
+msgid "Repeat All"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-sanitization.php:257
+msgid "Top Left"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-sanitization.php:258
+msgid "Top Center"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-sanitization.php:259
+msgid "Top Right"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-sanitization.php:260
+msgid "Middle Left"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-sanitization.php:261
+msgid "Middle Center"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-sanitization.php:262
+msgid "Middle Right"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-sanitization.php:263
+msgid "Bottom Left"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-sanitization.php:264
+msgid "Bottom Center"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-sanitization.php:265
+msgid "Bottom Right"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-sanitization.php:278
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-sanitization.php:279
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../lib/adm/options-framework/inc/includes/class-options-sanitization.php:354
+msgid "Italic"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/importer.php:254
+msgid "<strong>Import Complete.</strong> The Demo content has been imported, <strong>please wait for page reload.</strong>"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/parsers.php:42
+#: ../lib/adm/plugins/importer/parsers.php:57
+#: ../lib/adm/plugins/importer/parsers.php:93
+#: ../lib/adm/plugins/importer/parsers.php:101
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: ../lib/adm/plugins/importer/parsers.php:105
+#: ../lib/adm/plugins/importer/parsers.php:110
+#: ../lib/adm/plugins/importer/parsers.php:303
+#: ../lib/adm/plugins/importer/parsers.php:492
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:134
+#: ../lib/adm/plugins/importer/wordpress-importer.php:143
+#: ../lib/adm/plugins/importer/wordpress-importer.php:194
+#: ../lib/adm/plugins/importer/wordpress-importer.php:198
+#: ../lib/adm/plugins/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:199
+#, php-format
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:215
+#, php-format
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:240
+#, php-format
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:267
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:269
+#, php-format
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:374
+#, php-format
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:505
+#: ../lib/adm/plugins/importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:890
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:903
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:908
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:914
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:1013
+msgid "Import WordPress"
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:1020
+#, php-format
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:1035
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:1036
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../lib/adm/plugins/importer/wordpress-importer.php:1110
+msgid "Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgstr ""
+
+#: ../lib/inc/breadcrumbs.php:14
+msgid "Home"
+msgstr ""
+
+#: ../lib/inc/breadcrumbs.php:26
+#: ../lib/inc/breadcrumbs.php:30
+#, php-format
+msgid "Category &#39; %s &#39;"
+msgstr ""
+
+#: ../lib/inc/breadcrumbs.php:112
+#, php-format
+msgid "Posts Tagged &#39; %s &#39;"
+msgstr ""
+
+#: ../lib/inc/breadcrumbs.php:118
+#, php-format
+msgid "Articles posted by &#39; %s &#39;"
+msgstr ""
+
+#: ../lib/inc/breadcrumbs.php:123
+msgid "Error 404"
+msgstr ""
+
+#: ../lib/inc/post-like.php:213
+#: ../lib/inc/post-like.php:273
+msgid "You Like:"
+msgstr ""
+
+#: ../lib/inc/post-like.php:237
+msgid "You don't like anything yet."
+msgstr ""
+
+#: ../lib/inc/post-like.php:305
+msgid "Today's Most Popular Posts"
+msgstr ""
+
+#: ../lib/inc/post-like.php:337
+msgid "This Month's Most Popular Posts"
+msgstr ""
+
+#: ../lib/inc/post-like.php:369
+msgid "This Week's Most Popular Posts"
+msgstr ""
+
+#: ../lib/inc/post-like.php:388
+msgid "Most Popular Posts"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:32
+msgid "Select Source"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:33
+msgid "Image Selector"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:35
+msgid "Build Query"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:46
+#: ../lib/inc/shortcodes.php:360
+msgid "Round"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:47
+msgid "Frame + Round"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:67
+msgid "Select Image / Media Source"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:76
+msgid "Images"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:79
+msgid "Select images from media library."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:87
+msgid "Grids content"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:93
+msgid "Create WordPress loop, to populate content from your site."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:104
+#: ../lib/inc/shortcodes.php:117
+msgid "Order Post By"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:107
+#: ../lib/inc/shortcodes.php:121
+msgid "Ascending"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:108
+#: ../lib/inc/shortcodes.php:122
+msgid "Descending"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:135
+#: ../lib/inc/shortcodes.php:150
+msgid "Sort Post By"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:138
+#: ../lib/inc/shortcodes.php:154
+msgid "Post Order"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:140
+#: ../lib/inc/shortcodes.php:156
+msgid "Random"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:167
+msgid "Slide Sets"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:178
+msgid "Gallery Width"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:186
+#: ../lib/inc/shortcodes.php:673
+msgid "Row Height"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:190
+msgid "Gallery Height"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:205
+msgid "Columns"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:208
+msgid "3 Columns"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:209
+msgid "1 Columns"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:210
+msgid "2 Columns"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:211
+msgid "4 Columns"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:212
+msgid "5 Columns"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:213
+msgid "6 Columns"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:222
+msgid "Column Padding"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:234
+#: ../lib/inc/shortcodes.php:657
+#: ../lib/inc/shortcodes.php:839
+#: ../lib/inc/shortcodes/lists.php:59
+#: ../lib/inc/shortcodes/row-shapes.php:194
+#: ../lib/inc/shortcodes/text-slider.php:93
+#: ../lib/inc/shortcodes/text-slider.php:160
+msgid "Content"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:237
+msgid "Text on Hover + Image"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:238
+msgid "Title on Hover + Image"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:239
+msgid "Text + Image"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:240
+msgid "Title + Image"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:263
+#, php-format
+msgid "%s Align"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:278
+msgid "Image Width"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:287
+msgid "Image Height"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:306
+msgid "Timeout"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:308
+msgid "Time between animating slides, in seconds."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:326
+msgid "CSS Animation"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:330
+msgid "No"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:331
+msgid "Top to bottom"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:332
+msgid "Bottom to top"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:333
+msgid "Left to right"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:334
+msgid "Right to left"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:335
+msgid "Appear from center"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:336
+msgid "Rotate Top to Bottom"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:337
+msgid "Rotate Bottom to Top"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:338
+msgid "Rotate Left to Right"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:339
+msgid "Rotate Right to Left"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:340
+msgid "Pulse"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:341
+msgid "Swing"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:342
+msgid "Slide Left to Right"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:345
+msgid "Select type of animation if you want this element to be animated when it enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:350
+msgid "Rounded"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:352
+msgid "Outline"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:353
+msgid "Shadow"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:354
+msgid "Bordered shadow"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:355
+msgid "3D Shadow"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:361
+msgid "Round Border"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:362
+msgid "Round Outline"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:363
+msgid "Round Shadow"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:364
+msgid "Round Border Shadow"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:369
+msgid "Circle"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:370
+msgid "Circle Border"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:371
+msgid "Circle Outline"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:372
+msgid "Circle Shadow"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:373
+msgid "Circle Border Shadow"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:379
+msgid "Regular size"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:380
+#: ../lib/inc/shortcodes.php:936
+#: ../lib/inc/shortcodes/carousel-slider.php:172
+#: ../lib/inc/shortcodes/grid-gallery.php:211
+#: ../lib/inc/shortcodes/group-slider.php:244
+#: ../lib/inc/shortcodes/social-icons.php:144
+#: ../lib/inc/shortcodes/stage-slider.php:216
+msgid "Large"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:381
+#: ../lib/inc/shortcodes.php:934
+#: ../lib/inc/shortcodes/carousel-slider.php:170
+#: ../lib/inc/shortcodes/grid-gallery.php:209
+#: ../lib/inc/shortcodes/group-slider.php:242
+#: ../lib/inc/shortcodes/stage-slider.php:214
+msgid "Small"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:382
+msgid "Mini"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:413
+msgid "Same window"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:414
+msgid "New window"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:453
+msgid "Embed Type"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:468
+#: ../lib/inc/shortcodes/carousel-slider.php:190
+msgid "Ratio"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:481
+#: ../lib/inc/shortcodes/lists.php:63
+msgid "Style"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:494
+msgid "Autoplay"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:515
+#: ../lib/inc/shortcodes.php:525
+#: ../lib/inc/shortcodes.php:535
+#: ../lib/inc/shortcodes.php:555
+#: ../lib/inc/shortcodes.php:566
+msgid "Skin Default"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:545
+msgid "Inline"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:567
+msgid "Skin Link Color"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:577
+#: ../lib/inc/shortcodes.php:588
+#: ../lib/inc/shortcodes.php:599
+#: ../lib/inc/shortcodes.php:610
+#: ../lib/inc/shortcodes.php:620
+msgid "Skin Button Color"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:578
+#: ../lib/inc/shortcodes.php:589
+#: ../lib/inc/shortcodes.php:600
+#: ../lib/inc/shortcodes.php:621
+msgid "Skin Shaded Color"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:632
+msgid "Text Only"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:641
+msgid "Extra Large"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:642
+msgid "Super Size"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:652
+msgid "Row"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:661
+msgid "Row Stretch"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:665
+msgid "Stretch row"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:666
+msgid "Stretch row and content"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:667
+msgid "Stretch row and content without spaces"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:669
+msgid "Select stretching options for row and content. Stretched row overlay sidebar and may not work if parent container has overflow: hidden css property."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:677
+msgid "25%"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:678
+#: ../lib/inc/shortcodes/text-slider.php:102
+msgid "50%"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:679
+#: ../lib/inc/shortcodes/text-slider.php:101
+msgid "75%"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:680
+#: ../lib/inc/shortcodes/text-slider.php:100
+msgid "100%"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:682
+msgid "Set the minimum height of the row. Size is based on Browser window size."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:686
+msgid "Content position"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:689
+msgid "Middle"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:693
+msgid "Select content position within <strong>Full Height</strong> row."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:698
+msgid "Equal Column Height"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:700
+msgid "If checked columns will be set to equal height."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:702
+msgid "Yes"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:707
+msgid "Anchor Link Name"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:709
+msgid "Use this field to add an Anchor Name. You can then use links to scroll to this row, including from the menu."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:718
+#: ../lib/inc/shortcodes.php:1078
+#: ../lib/inc/shortcodes/row-shapes.php:234
+#: ../lib/inc/shortcodes/social-icons.php:160
+#: ../lib/inc/shortcodes/text-slider.php:141
+msgid "Extra class name"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:720
+msgid "<p>Use this field to add a class name and then refer to it in the Theme Options > Custom CSS field."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:724
+msgid "Css"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:727
+#: ../lib/inc/shortcodes.php:739
+#: ../lib/inc/shortcodes.php:751
+msgid "Design options"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:732
+msgid "Background Horizontal Position"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:744
+msgid "Background Vertical Position"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:756
+msgid "Parallax"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:758
+msgid "Add Parallax effect to <strong>Background Image</strong>."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:764
+#: ../lib/inc/shortcodes.php:772
+#: ../lib/inc/shortcodes.php:780
+#: ../lib/inc/shortcodes.php:791
+#: ../lib/inc/shortcodes.php:799
+#: ../lib/inc/shortcodes.php:807
+#: ../lib/inc/shortcodes.php:815
+#: ../lib/inc/shortcodes.php:826
+msgid "Background Extras"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:768
+msgid "Slider Images"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:771
+msgid "Add a Slider to the row background."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:777
+msgid "Slider Effect"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:785
+msgid "Slider Black & White Images"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:795
+msgid "Slider Timeout"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:798
+msgid "Add timeout in seconds."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:803
+msgid "Video URL"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:811
+msgid "Overlay Color"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:814
+msgid "Set an overlay color for Image or Video background."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:820
+msgid "Inherit Skin Shaded Background Color"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:822
+msgid "Inherit the Shaded background color set in the skin options."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:836
+msgid "Single Image"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:840
+msgid "Simple image with CSS animation"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:844
+msgid "Image source"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:847
+msgid "Media library"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:848
+#: ../lib/inc/shortcodes.php:867
+msgid "External link"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:852
+msgid "Select image source."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:859
+msgid "Select image from media library."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:869
+msgid "Select external link."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:877
+#: ../lib/inc/shortcodes.php:888
+msgid "Image size"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:880
+msgid "Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or other sizes defined by theme). Alternatively enter size in pixels (Example: 200x100 (Width x Height))."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:891
+msgid "Enter image size in pixels. Example: 200x100 (Width x Height)."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:899
+#: ../lib/inc/shortcodes.php:920
+msgid "Caption"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:903
+msgid "Media Library Description"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:904
+#: ../lib/inc/shortcodes/lists.php:70
+#: ../lib/inc/shortcodes/lists.php:87
+msgid "Custom"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:906
+msgid "Set a Caption using the Media Library Description field or a Custom one."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:912
+msgid "Enter text for image title."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:922
+msgid "Enter text for image caption."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:930
+#: ../lib/inc/shortcodes/carousel-slider.php:166
+#: ../lib/inc/shortcodes/grid-gallery.php:205
+#: ../lib/inc/shortcodes/group-slider.php:238
+#: ../lib/inc/shortcodes/stage-slider.php:210
+msgid "Title Size"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:939
+#: ../lib/inc/shortcodes/carousel-slider.php:175
+#: ../lib/inc/shortcodes/grid-gallery.php:214
+#: ../lib/inc/shortcodes/group-slider.php:247
+#: ../lib/inc/shortcodes/stage-slider.php:219
+msgid "Set the Caption Title size."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:943
+msgid "Image alignment"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:950
+msgid "Select image alignment."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:954
+#: ../lib/inc/shortcodes.php:965
+msgid "Image style"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:957
+#: ../lib/inc/shortcodes.php:968
+msgid "Select image display style."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:976
+#: ../lib/inc/shortcodes.php:1002
+msgid "On hover Effect"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:979
+#: ../lib/inc/shortcodes.php:1005
+#: ../lib/inc/shortcodes/grid-gallery.php:222
+#: ../lib/inc/shortcodes/grid-gallery.php:245
+#: ../lib/inc/shortcodes/group-slider.php:255
+#: ../lib/inc/shortcodes/group-slider.php:278
+msgid "Select Effect"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:980
+#: ../lib/inc/shortcodes/grid-gallery.php:223
+#: ../lib/inc/shortcodes/group-slider.php:256
+msgid "Fade + Slide Text ( From Bottom ) + Animate Text"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:981
+#: ../lib/inc/shortcodes/grid-gallery.php:224
+#: ../lib/inc/shortcodes/group-slider.php:257
+msgid "Fade + Slide Text ( From Left ) + Animate Text"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:982
+#: ../lib/inc/shortcodes/grid-gallery.php:225
+#: ../lib/inc/shortcodes/group-slider.php:258
+msgid "Spin + Slide"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:983
+#: ../lib/inc/shortcodes/grid-gallery.php:226
+#: ../lib/inc/shortcodes/group-slider.php:259
+msgid "Slide + Shrink"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:984
+#: ../lib/inc/shortcodes/grid-gallery.php:227
+#: ../lib/inc/shortcodes/group-slider.php:260
+msgid "Slide + Fade"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:985
+#: ../lib/inc/shortcodes/grid-gallery.php:228
+#: ../lib/inc/shortcodes/group-slider.php:261
+msgid "Roll Right + Fade"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:986
+#: ../lib/inc/shortcodes/grid-gallery.php:229
+#: ../lib/inc/shortcodes/group-slider.php:262
+msgid "Spin + Fade"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:987
+#: ../lib/inc/shortcodes/grid-gallery.php:230
+#: ../lib/inc/shortcodes/group-slider.php:263
+msgid "Fade + Fold Down"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:988
+#: ../lib/inc/shortcodes.php:1009
+#: ../lib/inc/shortcodes/grid-gallery.php:231
+#: ../lib/inc/shortcodes/grid-gallery.php:249
+#: ../lib/inc/shortcodes/group-slider.php:264
+#: ../lib/inc/shortcodes/group-slider.php:282
+msgid "Flip Image Top"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:989
+#: ../lib/inc/shortcodes/grid-gallery.php:232
+#: ../lib/inc/shortcodes/group-slider.php:265
+msgid "Flip Image Down"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:990
+#: ../lib/inc/shortcodes.php:1011
+#: ../lib/inc/shortcodes/grid-gallery.php:233
+#: ../lib/inc/shortcodes/grid-gallery.php:251
+#: ../lib/inc/shortcodes/group-slider.php:266
+#: ../lib/inc/shortcodes/group-slider.php:284
+msgid "Flip Image Left"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:991
+#: ../lib/inc/shortcodes.php:1012
+#: ../lib/inc/shortcodes/grid-gallery.php:234
+#: ../lib/inc/shortcodes/grid-gallery.php:252
+#: ../lib/inc/shortcodes/group-slider.php:267
+#: ../lib/inc/shortcodes/group-slider.php:285
+msgid "Flip Image Right"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:994
+#: ../lib/inc/shortcodes.php:1017
+#: ../lib/inc/shortcodes/grid-gallery.php:237
+#: ../lib/inc/shortcodes/grid-gallery.php:259
+#: ../lib/inc/shortcodes/group-slider.php:270
+#: ../lib/inc/shortcodes/group-slider.php:292
+msgid "Select hover effect - requires a title or caption."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1006
+#: ../lib/inc/shortcodes/grid-gallery.php:246
+#: ../lib/inc/shortcodes/group-slider.php:279
+msgid "Zoom Image + Slide Text ( From Top )"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1007
+#: ../lib/inc/shortcodes/grid-gallery.php:247
+#: ../lib/inc/shortcodes/group-slider.php:280
+msgid "Zoom Image + Slide Text ( From Left )"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1008
+#: ../lib/inc/shortcodes/grid-gallery.php:248
+#: ../lib/inc/shortcodes/group-slider.php:281
+msgid "Zoom Image + Text"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1010
+#: ../lib/inc/shortcodes/grid-gallery.php:250
+#: ../lib/inc/shortcodes/group-slider.php:283
+msgid "Flip Image Bottom"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1013
+#: ../lib/inc/shortcodes/grid-gallery.php:253
+#: ../lib/inc/shortcodes/group-slider.php:286
+msgid "Slide Image + Text"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1014
+#: ../lib/inc/shortcodes/grid-gallery.php:254
+#: ../lib/inc/shortcodes/group-slider.php:287
+msgid "3d Rotate Vertical"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1015
+#: ../lib/inc/shortcodes/grid-gallery.php:255
+#: ../lib/inc/shortcodes/group-slider.php:288
+msgid "3d Rotate Horizontal"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1025
+msgid "On click action"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1029
+msgid "Link to Large Image"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1030
+msgid "Custom Link"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1032
+msgid "Select action for click action."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1037
+msgid "Custom URL"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1039
+msgid "Enter URL if you want this image to have a link (Note: parameters like \"mailto:\" are also accepted)."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1048
+msgid "Enable Lightbox"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1050
+msgid "Open Large Image in Lightbox or use Lightbox Media URL to open alternative Media."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1057
+msgid "Lightbox Media URL"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1059
+msgid "Enter Media URL e.g. YouTube URL."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1067
+msgid "Link Target"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1080
+msgid "Style particular content element differently - add a class name and refer to it in custom CSS."
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1084
+msgid "CSS box"
+msgstr ""
+
+#: ../lib/inc/shortcodes.php:1086
+msgid "Design Options"
+msgstr ""
+
+#: ../lib/inc/classes/attach-images-class.php:91
+#: ../lib/inc/classes/post-loop-class.php:195
+msgid "Filter By: "
+msgstr ""
+
+#: ../lib/inc/classes/attach-images-class.php:93
+#: ../lib/inc/classes/post-loop-class.php:197
+msgid "All"
+msgstr ""
+
+#: ../lib/inc/classes/post-loop-class.php:215
+msgid "Start Searching..."
+msgstr ""
+
+#: ../lib/inc/shortcodes/carousel-slider.php:133
+msgid "3d Carousel Slider"
+msgstr ""
+
+#: ../lib/inc/shortcodes/carousel-slider.php:137
+#: ../lib/inc/shortcodes/grid-gallery.php:187
+#: ../lib/inc/shortcodes/group-slider.php:184
+#: ../lib/inc/shortcodes/stage-slider.php:153
+msgid "Gallery"
+msgstr ""
+
+#: ../lib/inc/shortcodes/carousel-slider.php:146
+#: ../lib/inc/shortcodes/grid-gallery.php:266
+#: ../lib/inc/shortcodes/group-slider.php:193
+#: ../lib/inc/shortcodes/stage-slider.php:162
+msgid "Ajax Lazy Load"
+msgstr ""
+
+#: ../lib/inc/shortcodes/carousel-slider.php:152
+#: ../lib/inc/shortcodes/grid-gallery.php:273
+#: ../lib/inc/shortcodes/group-slider.php:199
+#: ../lib/inc/shortcodes/stage-slider.php:168
+msgid "Load Gallery content in via Ajax ( Reduces page load time )."
+msgstr ""
+
+#: ../lib/inc/shortcodes/carousel-slider.php:157
+#: ../lib/inc/shortcodes/grid-gallery.php:278
+#: ../lib/inc/shortcodes/group-slider.php:204
+#: ../lib/inc/shortcodes/stage-slider.php:173
+msgid "Lazy Load Initial Limit"
+msgstr ""
+
+#: ../lib/inc/shortcodes/carousel-slider.php:160
+#: ../lib/inc/shortcodes/grid-gallery.php:281
+#: ../lib/inc/shortcodes/group-slider.php:207
+#: ../lib/inc/shortcodes/stage-slider.php:176
+msgid "Enter how many slides you wish to display on initial load."
+msgstr ""
+
+#: ../lib/inc/shortcodes/carousel-slider.php:203
+#: ../lib/inc/shortcodes/grid-gallery.php:327
+#: ../lib/inc/shortcodes/group-slider.php:334
+#: ../lib/inc/shortcodes/stage-slider.php:259
+msgid "Add an optional CSS classes."
+msgstr ""
+
+#: ../lib/inc/shortcodes/grid-gallery.php:183
+msgid "Grid Gallery"
+msgstr ""
+
+#: ../lib/inc/shortcodes/grid-gallery.php:200
+#: ../lib/inc/shortcodes/group-slider.php:225
+msgid "Enter image size. Example: 'thumbnail', 'medium', 'large', 'full' or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height). Leave empty to use 'medium' size."
+msgstr ""
+
+#: ../lib/inc/shortcodes/grid-gallery.php:219
+#: ../lib/inc/shortcodes/grid-gallery.php:242
+#: ../lib/inc/shortcodes/group-slider.php:252
+#: ../lib/inc/shortcodes/group-slider.php:275
+msgid "Hover Effect"
+msgstr ""
+
+#: ../lib/inc/shortcodes/grid-gallery.php:270
+msgid "Scroll to Load"
+msgstr ""
+
+#: ../lib/inc/shortcodes/grid-gallery.php:271
+msgid "Click to Load"
+msgstr ""
+
+#: ../lib/inc/shortcodes/grid-gallery.php:287
+msgid "Slides Per Ajax Load"
+msgstr ""
+
+#: ../lib/inc/shortcodes/grid-gallery.php:290
+msgid "Enter how many Slides you wish to load in."
+msgstr ""
+
+#: ../lib/inc/shortcodes/grid-gallery.php:295
+msgid "Animated Filtering"
+msgstr ""
+
+#: ../lib/inc/shortcodes/grid-gallery.php:299
+msgid "Click to Filter"
+msgstr ""
+
+#: ../lib/inc/shortcodes/grid-gallery.php:306
+msgid "Masonry"
+msgstr ""
+
+#: ../lib/inc/shortcodes/group-slider.php:180
+msgid "Group Slider"
+msgstr ""
+
+#: ../lib/inc/shortcodes/group-slider.php:213
+msgid "Posts Limit"
+msgstr ""
+
+#: ../lib/inc/shortcodes/group-slider.php:217
+msgid "Set a posts limit."
+msgstr ""
+
+#: ../lib/inc/shortcodes/group-slider.php:230
+msgid "Minimum Slider Height"
+msgstr ""
+
+#: ../lib/inc/shortcodes/group-slider.php:233
+msgid "Enter a height to prevent the Slider from adjusting height when using different sized images."
+msgstr ""
+
+#: ../lib/inc/shortcodes/group-slider.php:299
+#: ../lib/inc/shortcodes/stage-slider.php:233
+#: ../lib/inc/shortcodes/text-slider.php:131
+msgid "Navigation"
+msgstr ""
+
+#: ../lib/inc/shortcodes/lists.php:54
+msgid "List"
+msgstr ""
+
+#: ../lib/inc/shortcodes/lists.php:66
+msgid "Bullet"
+msgstr ""
+
+#: ../lib/inc/shortcodes/lists.php:67
+#: ../lib/inc/shortcodes/row-shapes.php:207
+msgid "Arrow"
+msgstr ""
+
+#: ../lib/inc/shortcodes/lists.php:68
+msgid "Check"
+msgstr ""
+
+#: ../lib/inc/shortcodes/lists.php:69
+msgid "Cross"
+msgstr ""
+
+#: ../lib/inc/shortcodes/lists.php:75
+msgid "Unicode Character"
+msgstr ""
+
+#: ../lib/inc/shortcodes/lists.php:78
+msgid "Add <a href='//fortawesome.github.io/Font-Awesome/icon/coffee/' target='_blank'>Font Awesome</a> <strong>Unicode</strong> Character: e.g. <strong>F0F4</strong>"
+msgstr ""
+
+#: ../lib/inc/shortcodes/lists.php:89
+#: ../lib/inc/shortcodes/social-icons.php:190
+msgid "Select color of the toggle icon."
+msgstr ""
+
+#: ../lib/inc/shortcodes/lists.php:93
+msgid "Custom Color"
+msgstr ""
+
+#: ../lib/inc/shortcodes/lists.php:102
+msgid "Text"
+msgstr ""
+
+#: ../lib/inc/shortcodes/row-shapes.php:189
+msgid "FlexiShape"
+msgstr ""
+
+#: ../lib/inc/shortcodes/row-shapes.php:198
+msgid "Shape Type"
+msgstr ""
+
+#: ../lib/inc/shortcodes/row-shapes.php:201
+msgid "Slant Left"
+msgstr ""
+
+#: ../lib/inc/shortcodes/row-shapes.php:202
+msgid "Slant Right"
+msgstr ""
+
+#: ../lib/inc/shortcodes/row-shapes.php:203
+msgid "Curved"
+msgstr ""
+
+#: ../lib/inc/shortcodes/row-shapes.php:204
+msgid "Curved Inverted"
+msgstr ""
+
+#: ../lib/inc/shortcodes/row-shapes.php:205
+msgid "Pointed"
+msgstr ""
+
+#: ../lib/inc/shortcodes/row-shapes.php:206
+msgid "Pointed Inverted"
+msgstr ""
+
+#: ../lib/inc/shortcodes/row-shapes.php:208
+msgid "Arrow Inverted"
+msgstr ""
+
+#: ../lib/inc/shortcodes/row-shapes.php:209
+msgid "Jagged"
+msgstr ""
+
+#: ../lib/inc/shortcodes/row-shapes.php:214
+msgid "Position"
+msgstr ""
+
+#: ../lib/inc/shortcodes/row-shapes.php:228
+#: ../lib/inc/shortcodes/stage-slider.php:202
+msgid "Height"
+msgstr ""
+
+#: ../lib/inc/shortcodes/row-shapes.php:237
+#: ../lib/inc/shortcodes/text-slider.php:144
+msgid "Add custom CSS classes to the above field."
+msgstr ""
+
+#: ../lib/inc/shortcodes/social-icons.php:140
+msgid "Size"
+msgstr ""
+
+#: ../lib/inc/shortcodes/social-icons.php:149
+msgid "Align"
+msgstr ""
+
+#: ../lib/inc/shortcodes/social-icons.php:163
+msgid "Add custom CSS classes. Use color for social icons in color."
+msgstr ""
+
+#: ../lib/inc/shortcodes/social-icons.php:179
+#: ../lib/inc/shortcodes/social-icons.php:186
+msgid "Social Icon"
+msgstr ""
+
+#: ../lib/inc/shortcodes/social-icons.php:197
+msgid "Optional Link URL"
+msgstr ""
+
+#: ../lib/inc/shortcodes/stage-slider.php:149
+msgid "Stage Slider"
+msgstr ""
+
+#: ../lib/inc/shortcodes/stage-slider.php:185
+msgid "Enter image size. Example: 'thumbnail', 'medium', 'large', 'full' or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height). Leave empty to use 'large' size."
+msgstr ""
+
+#: ../lib/inc/shortcodes/stage-slider.php:190
+msgid "Image Fit"
+msgstr ""
+
+#: ../lib/inc/shortcodes/stage-slider.php:197
+msgid "Select how the image fits within the Slider. 'Default' allows for images to be set individually."
+msgstr ""
+
+#: ../lib/inc/shortcodes/stage-slider.php:205
+msgid "Set a height for the Gallery, default is 400."
+msgstr ""
+
+#: ../lib/inc/shortcodes/stage-slider.php:226
+msgid "Animation Type"
+msgstr ""
+
+#: ../lib/inc/shortcodes/stage-slider.php:236
+#: ../lib/inc/shortcodes/text-slider.php:136
+msgid "Arrows on Hover"
+msgstr ""
+
+#: ../lib/inc/shortcodes/stage-slider.php:237
+#: ../lib/inc/shortcodes/text-slider.php:135
+msgid "Static Arrows"
+msgstr ""
+
+#: ../lib/inc/shortcodes/stage-slider.php:239
+msgid "Arrows on Hover + Bullet"
+msgstr ""
+
+#: ../lib/inc/shortcodes/stage-slider.php:240
+msgid "Static Arrows + Bullet"
+msgstr ""
+
+#: ../lib/inc/shortcodes/stage-slider.php:241
+#: ../lib/inc/shortcodes/text-slider.php:134
+msgid "Disable Navigation"
+msgstr ""
+
+#: ../lib/inc/shortcodes/text-slider.php:87
+msgid "Text Slider"
+msgstr ""
+
+#: ../lib/inc/shortcodes/text-slider.php:107
+msgid "Effect"
+msgstr ""
+
+#: ../lib/inc/shortcodes/text-slider.php:116
+msgid "Auto-Slide"
+msgstr ""
+
+#: ../lib/inc/shortcodes/text-slider.php:119
+msgid "1 Second"
+msgstr ""
+
+#: ../lib/inc/shortcodes/text-slider.php:120
+msgid "3 Seconds"
+msgstr ""
+
+#: ../lib/inc/shortcodes/text-slider.php:121
+msgid "5 Seconds"
+msgstr ""
+
+#: ../lib/inc/shortcodes/text-slider.php:122
+msgid "10 Seconds"
+msgstr ""
+
+#: ../lib/inc/shortcodes/text-slider.php:123
+msgid "20 Seconds"
+msgstr ""
+
+#: ../lib/inc/shortcodes/text-slider.php:124
+msgid "30 Seconds"
+msgstr ""
+
+#: ../lib/inc/shortcodes/text-slider.php:152
+msgid "Text Slide"
+msgstr ""
+
+#: ../widgets/class-acoda-widget-cart.php:24
+msgid "Shopping Cart"
+msgstr ""
+

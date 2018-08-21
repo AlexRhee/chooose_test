@@ -1,0 +1,103 @@
+<?php
+/**
+ * The template for displaying content in the single.php template
+ *
+ * @package WordPress
+ */
+ 
+ ?>
+
+<article id="post-<?php echo esc_attr( get_the_ID() ); ?>" <?php esc_attr( post_class() ); ?>> 	
+	<div class="article-row row">               
+		
+			<?php	
+		
+			echo '<section class="entry columns large-12 '. ( acoda_settings('archive_img_align') != 'center' ? 'flex-layout' : '' ) .'">';
+			
+			if( acoda_settings('posttitle_overlayimage') == true && acoda_settings('posttitle_position') == 'content' )
+			{
+				echo '<div class="post-header-wrap">';
+				
+				echo '<div class="post-header-title-wrap">';
+				
+					// Post Title
+					acoda_post_title();				
+
+					// Post Metadata 
+					acoda_post_metadata();	
+				
+				echo '</div>';
+
+				// Post Featured Image
+				acoda_post_image();			
+				
+				echo '<div class="overlay"></div>';
+				
+				echo '</div>';		
+				
+				// Post Content		
+				acoda_post_content();				
+			}
+			else
+			{
+				if( is_single() )
+				{
+					// Post Title
+					acoda_post_title();						
+				}
+				
+				// Post Featured Image
+				if(  acoda_settings('archive_img_align') == 'left' || acoda_settings('archive_img_align') == 'right'  )
+				{
+					acoda_post_image();	
+					
+					echo '<div class="blog-content-wrap">';	
+				}
+				
+				if( ! is_single() )
+				{
+					// Post Title
+					acoda_post_title();		
+				}
+
+				// Post Metadata 
+				acoda_post_metadata();					
+
+				// Post Featured Image
+				if(  acoda_settings('archive_img_align') == 'center'  )
+				{
+					acoda_post_image();	
+				}		
+				
+				
+				// Post Content		
+				acoda_post_content();
+				
+				
+				if(  acoda_settings('archive_img_align') == 'left' || acoda_settings('archive_img_align') == 'right'  )
+				{		
+					echo '</div>';	
+				}				
+			}
+							
+	
+			wp_link_pages(
+				array( 
+					'before'	=> '<div class="page_nav">',
+					'after'		=> '</div>',
+					'link_before'	=> '<span class="page-numbers">',
+					'link_after'	=> '</span>',
+				) 
+			); 
+    
+		echo '</section><!-- / .entry -->';
+     
+		
+		if( is_single() )
+		{
+			// Single Post Footer
+			acoda_post_footer();
+		} ?>
+    
+    </div>
+</article><!-- #post-<?php the_ID(); ?> -->
